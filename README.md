@@ -43,7 +43,7 @@ This prevents features with larger magnitudes from dominating the variance.
 ### 2. Covariance Matrix
 The covariance matrix describes relationships between features:
 
-$\Sigma = \frac{1}{n - 1} X^{T} X$
+$\Sigma = \frac{1}{n - 1}(X - \mu)^{T}(X - \mu)$
 
 It captures how strongly variables vary together.
 
