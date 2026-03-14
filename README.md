@@ -25,7 +25,7 @@ The project uses the **Iris dataset** from the UCI Machine Learning Repository.
 
 **Dataset Source:** https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
 
-# PCA Mathematical Foundation
+## PCA Mathematical Foundation
 
 Given a dataset
 
